@@ -58,7 +58,7 @@ Find a relative Medium blogpost here: https://medium.com/@liegearthur/nextjs-13-
 
 ## External dependencies
 
-Storyblok asks for a `https` certificat to ensure that the bridge can connect and that you can preview your website in Storyblok CMS.
+Storyblok asks for a `https` certificate to ensure that the bridge can connect and that you can preview your website in Storyblok CMS.
 
 You **NEED** to have **HTTPS Proxy Certificates** at the root of your project:
 ```
